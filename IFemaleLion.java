@@ -1,6 +1,6 @@
 package DayEleven.Homework;
 
 public interface IFemaleLion {
- int HuntPray();
- public void run();
+ int BiteDmg(int biteforce);
+ int run(int kph);
 }
