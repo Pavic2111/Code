@@ -1,4 +1,4 @@
-package DayEleven.Homework;
+package HomeWork;
 
 public interface IFemaleLion {
  int BiteDmg(int biteforce);

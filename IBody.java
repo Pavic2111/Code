@@ -1,4 +1,4 @@
-package DayEleven.Homework;
+package HomeWork;
 
 public interface IBody extends ILions {
     boolean 	SeeInDark();

@@ -1,4 +1,4 @@
-package DayEleven.Homework;
+package HomeWork;
 
 public class LittleCub  implements ILions , IBody , IFemaleLion{
 
